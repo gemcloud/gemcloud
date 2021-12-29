@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Gem Cloud Space!
 
-A Software Engineer | New Tech enthisiast.
+A Software Engineer | New Tech enthusiast | WebSite CMS CRM E-Commerce Web-App.
 Experience with the technologies listed in the below.
 
 ---
@@ -49,7 +49,7 @@ Other:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemcloud&hide=java,html,css&theme=radical&layout=compact)](https://github.com/gemcloud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemcloud&hide=html,css&theme=radical&layout=compact)](https://github.com/gemcloud/github-readme-stats)
 
 [![Gem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemcloud&theme=radical&count_private=true&show_icons=true)](https://github.com/gemcloud/github-readme-stats)
 
