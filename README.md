@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Thanks for stopping by!
+### 👋 Hello!, Thanks for stopping by!
 
 A Software Engineer | New Tech enthusiast | WebSite CMS CRM E-Commerce Web-App.
 Experience with the technologies listed in the below.
